@@ -2344,7 +2344,7 @@
 		height: 3.15em;
 		height: calc(2.75em + 6px);
 		line-height: 2.75em;
-		min-width: 10em;
+		min-width: 6em;
 		padding: 0 1.5em;
 		text-align: center;
 		text-decoration: none;

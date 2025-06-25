@@ -1660,7 +1660,7 @@ summary::after {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #787878;
+		color: #383636;/*787878;*/
 		font-weight: 400;
 		line-height: 1em;
 		margin: 0 0 1em 0;
@@ -1799,7 +1799,7 @@ summary::after {
 	}
 
 	header.major h2 {
-		font-size: 2em;
+		font-size: 1.75em;
 	}
 
 /* Form */
@@ -2537,15 +2537,16 @@ summary::after {
 	}
 
 		#header strong, #header b {
-			color: #ffffff;
+			color: #040404;
+			font-size: 1.25em;
 		}
 
 		#header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #ffffff;
+			color: #383636;
 		}
 
 		#header h1 {
-			color: rgba(255, 255, 255, 0.5);
+			color: #383636;/*rgba(255, 255, 255, 1);*/
 			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
@@ -2572,11 +2573,11 @@ summary::after {
 		}
 
 			#footer .icons a {
-				color: rgba(255, 255, 255, 0.4);
+				color: #383636;/*rgba(255, 255, 255, 0.4);*/
 			}
 
 		#footer .copyright {
-			color: rgba(255, 255, 255, 0.4);
+			color: #383636;/*rgba(255, 255, 255, 0.4);*/
 			font-size: 1em;
 			list-style: none;
 			margin: 1em 0 0 0;
@@ -2584,7 +2585,7 @@ summary::after {
 		}
 
 			#footer .copyright li {
-				border-left: solid 1px rgba(255, 255, 255, 0.25);
+				border-left: solid 1px #383636; /*rgba(255, 255, 255, 0.25);*/
 				display: inline-block;
 				line-height: 1em;
 				margin-left: 0.75em;

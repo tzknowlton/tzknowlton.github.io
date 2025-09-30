@@ -2113,12 +2113,12 @@ summary::after {
 
 		.image.right {
 			float: right;
-			margin: 0 0 1em 1.5em;
+			margin: -6em 2em .5em 1.5em;
 			top: 0.25em;
 		}
 
 		.image.left, .image.right {
-			max-width: 40%;
+			max-width: 22%;
 		}
 
 			.image.left img, .image.right img {

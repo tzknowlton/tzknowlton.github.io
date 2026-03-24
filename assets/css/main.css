@@ -1802,6 +1802,10 @@ summary::after {
 		font-size: 1.75em;
 	}
 
+	header.major h3 {
+		margin-top: -2.5em;
+	}
+
 /* Form */
 
 	form {
